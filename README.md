@@ -1,4 +1,5 @@
 ### Hello every nya~ 
+https://www.linkedin.com/in/defri-salwan/
 
 <!--
 **hooqii/hooqii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
