@@ -1,4 +1,4 @@
-### Hello every nya~ <img src="https://media.tenor.com/WKPXrrxUvEgAAAAi/frieren-kuru-kuru.gif" width="45px">
+### <img src="https://media.tenor.com/WKPXrrxUvEgAAAAi/frieren-kuru-kuru.gif" width="45px"> Hello every nya~ 
 https://www.linkedin.com/in/defri-salwan/
 
 
