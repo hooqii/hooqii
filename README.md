@@ -1,4 +1,4 @@
-### Hello every nya~ <img src="https://media.tenor.com/WKPXrrxUvEgAAAAi/frieren-kuru-kuru.gif" width="45px">
+### Hello every nya~ <img src="https://media.tenor.com/WKPXrrxUvEgAAAAi/frieren-kuru-kuru.gif](https://i.pinimg.com/originals/46/bd/7a/46bd7a7982a61c3fd9d64bc468deb498.gif" width="45px">
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hooqii&theme=graywhite&show_icons=true)
