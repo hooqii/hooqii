@@ -1,4 +1,3 @@
-
 <img src="https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/running-nikke-doro-kawaii-doodle.gif" width="45px">
 
 ### Hello every nya~ 
