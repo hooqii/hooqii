@@ -28,7 +28,11 @@
 </p>
 
 ---
-
+### 🐍 Watch my contribution snake!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hooqii/hooqii/output/github-snake.svg" alt="Snake animation" />
+</p>
+---
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://x.com/hoo_qii">
@@ -54,11 +58,6 @@
 [![Design Tool](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square)
 ---
 ### 🌌 Fun Corner
----
-### 🐍 Watch my contribution snake!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hooqii/hooqii/output/github-snake.svg" alt="Snake animation" />
-</p>
 ---
 <h3 align="center">✨ “Stay creative, keep building, and never stop exploring.” ✨</h3>
 
