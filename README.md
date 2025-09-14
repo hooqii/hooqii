@@ -28,7 +28,7 @@
 </p>
 
 ---
-### 🐍 Watch my contribution snake!
+### 🌌 Fun Corner
 <p align="center">
   <img src="https://raw.githubusercontent.com/hooqii/hooqii/output/github-snake.svg" alt="Snake animation" />
 </p>
@@ -52,15 +52,24 @@
 ### 🛠 Tech Stack
 <div align="center">
 
-[![JavaScript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=Flex+Development&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=JavaScript&size=square)
-[![Programing Lang](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikotlin&subtitle=Programing+Lang&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikotlin&subtitle=Programing+Lang&size=square)
-[![Flutter](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siflutter&subtitle=Cross+Platform&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siflutter&subtitle=Flutter&size=square)
-[![Styling](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Styling&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Styling&size=square)
-[![Design Tool](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square)
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=JavaScript&size=square">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=Flex+Development&size=square" width="105px" />
+</a>
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikotlin&subtitle=Programing+Lang&size=square">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikotlin&subtitle=Programing+Lang&size=square" width="105px" />
+</a>
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siflutter&subtitle=Flutter&size=square">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siflutter&subtitle=Cross+Platform&size=square" width="105px" />
+</a>
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Styling&size=square">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Styling&size=square" width="105px" />
+</a>
+<a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square" width="105px" />
+</a>
+
 </div>
 
----
-### 🌌 Fun Corner
 ---
 <h3 align="center">✨ “Stay creative, keep building, and never stop exploring.” ✨</h3>
 
