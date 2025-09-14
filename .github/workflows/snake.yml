@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: hooqii
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=#FD418D&color_dots=#ebedf0,#b3e5fc,#4dd0e1,#00bcd4,#0097a7
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=#FD418D&color_dots=#BFD6F6,#8DBDFF,#64A1F4,#4B91F1,#3C7DD9
 
