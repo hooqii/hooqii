@@ -55,8 +55,10 @@
 ---
 ### 🌌 Fun Corner
 ---
-dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-<h3 align="center">✨ “Stay creative, keep building, and never stop exploring.” ✨</h3>
+### 🐍 Watch my contribution snake!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hooqii/hooqii/output/github-snake.svg" alt="Snake animation" />
+</p>
 ---
+<h3 align="center">✨ “Stay creative, keep building, and never stop exploring.” ✨</h3>
+
