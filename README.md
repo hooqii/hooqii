@@ -32,30 +32,33 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hooqii/hooqii/output/github-snake.svg" alt="Snake animation" />
 </p>
+
 ---
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://x.com/hoo_qii">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fhoo_qii&subtitle=HooQii&size=wide&rounded=24" width="300"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fhoo_qii&subtitle=HooQii&size=square"/>
   </a>
   <a href="https://www.linkedin.com/in/defri-salwan/">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdefri-salwan%2F&subtitle=Defri+Salwan&size=wide&rounded=24" width="300"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdefri-salwan%2F&subtitle=Defri+Salwan&size=square"/>
   </a>
   <a href="https://www.instagram.com/hoo_qii/">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fhoo_qii%2F&subtitle=%40HooQii&size=wide&rounded=24" width="300"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fhoo_qii%2F&subtitle=%40HooQii&size=square"/>
   </a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
-<a align="center">
+<div align="center">
 
 [![JavaScript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=Flex+Development&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=JavaScript&size=square)
 [![Programing Lang](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikotlin&subtitle=Programing+Lang&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikotlin&subtitle=Programing+Lang&size=square)
 [![Flutter](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siflutter&subtitle=Cross+Platform&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siflutter&subtitle=Flutter&size=square)
 [![Styling](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Styling&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitailwindcss&subtitle=Styling&size=square)
 [![Design Tool](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifigma&subtitle=Design+Tool&size=square)
+</div>
+
 ---
 ### 🌌 Fun Corner
 ---
